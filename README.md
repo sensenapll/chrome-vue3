@@ -11,3 +11,7 @@ pnpm i
 pnpm run watch-build # 监听 build 构建
 pnpm run watch-json # 监听 manifest.json 文件变化
 ```
+### 说明
+```shell
+vue3+vite开发chrome插件
+```
