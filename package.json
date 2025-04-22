@@ -26,14 +26,11 @@
     "eslint-plugin-promise": "^4.2.1",
     "eslint-plugin-standard": "^4.0.0",
     "eslint-plugin-vue": "^7.0.0-0",
-    "less": "^4.0.0",
     "less-loader": "^7.2.1",
     "naive-ui": "^2.37.3",
     "pinia": "^2.1.7",
     "pnpm": "^10.9.0",
-    "vue": "^3.3.11"
-  },
-  "devDependencies": {
+    "vue": "^3.3.11",
     "@types/node": "^20.11.6",
     "@vitejs/plugin-vue": "^4.5.2",
     "chrome-types": "^0.1.253",
