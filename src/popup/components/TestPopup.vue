@@ -1,7 +1,7 @@
 <template>
   <div class="plugin-box">
     <div class="plugin-header">
-      <span class="plugin-title">测试插件</span>
+      <span class="plugin-title">测试插件111222</span>
       <div class="switch-wrapper">
         <span>激活/禁用</span>
         <input type="checkbox" v-model="active" @change="handleChange" :disabled="isLoading" class="custom-toggle">
