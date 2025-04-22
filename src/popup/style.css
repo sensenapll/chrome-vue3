@@ -1,0 +1,10 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+
+/* 可以添加更多样式 */
+n-button {
+  margin-top: 10px;
+  margin-right: 10px;
+}
