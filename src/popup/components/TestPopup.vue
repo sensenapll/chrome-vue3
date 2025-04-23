@@ -63,6 +63,7 @@ const handleChange = async (): Promise<void> => {
     // 根据开关状态显示不同的提示信息
     if (active.value) {
       statusMessage.value = '已成功激活';
+        alert('Button clicked!');
     } else {
       statusMessage.value = '已成功禁用';
     }
